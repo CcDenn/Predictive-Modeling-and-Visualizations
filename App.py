@@ -47,5 +47,9 @@ if location and ownership and industry and sector and job_title:
 
     # Display the prediction
     st.write('Predicted Take Home Income:', prediction)
+    # Show top 5 locations with highest average take-home income for the same categorized job title
+    st.write('Top 5 Locations with Highest Average Take-Home Income for', job_title)
+    top_5_locations = df_average_income[df_average_income['Categorized Job Title'] == job_title].groupby('Location (City)').mean().sort_values('Average Take Home Income', ascending=False).head(5).drop('Age', axis=1)
+    st.table(top_5_locations)
 else:
     st.write('Please enter all inputs')
