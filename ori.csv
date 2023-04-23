@@ -1,0 +1,958 @@
+Location (City),Type of ownership,Industry,Sector,Age,Years of Experience,Categorized Job Title,Average Take Home Income
+Albuquerque,Company - Private,Aerospace & Defense,Aerospace & Defense,48,5.0,Data Scientist,24994.225999999995
+Linthicum,Other Organization,Health Care Services & Hospitals,Health Care,37,5.0,Data Scientist,34367.34
+Clearwater,Company - Private,Security Services,Business Services,11,3.0,Data Scientist,32417.339999999997
+Richland,Government,Energy,"Oil, Gas, Energy & Utilities",56,1.0,Data Scientist,25787.339999999997
+New York,Company - Private,Advertising & Marketing,Business Services,23,5.0,Data Scientist,44204.6
+Dallas,Company - Public,Real Estate,Real Estate,21,5.0,Data Scientist,40673.07
+Baltimore,Company - Private,Banks & Credit Unions,Finance,13,5.0,Data Scientist,20768.719999999994
+San Jose,Company - Private,Consulting,Business Services,16,5.0,Data Scientist,26413.569999999992
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,14730.521999999997
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,14998.383999999998
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,14730.521999999997
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,14998.383999999998
+New York,Company - Private,Internet,Information Technology,12,5.0,Data Scientist,63584.6
+San Jose,Company - Private,Other Retail Stores,Retail,10,2.0,Data Scientist,64033.56999999999
+Chantilly,Company - Public,Research & Development,Business Services,53,5.0,Data Scientist,32417.339999999997
+Plano,Company - Public,"Department, Clothing, & Shoe Stores",Retail,59,5.0,Data Scientist,73539.08
+Seattle,Company - Private,Advertising & Marketing,Business Services,9,5.0,Data Analyst,7793.903999999995
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,240,5.0,Data Scientist,54159.08
+Newark,Subsidiary or Business Segment,Motion Picture Production & Distribution,Media,26,5.0,Data Engineer,78859.08
+Newark,Subsidiary or Business Segment,Motion Picture Production & Distribution,Media,26,5.0,Data Engineer,78859.08
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,10,3.0,Data Scientist,45419.08
+Mountain View,Company - Private,Enterprise Software & Network Solutions,Information Technology,10,5.0,Data Scientist,84559.08
+San Francisco,Company - Private,Enterprise Software & Network Solutions,Information Technology,11,5.0,Data Scientist,46122.004
+Denver,Nonprofit Organization,Insurance Carriers,Insurance,106,5.0,Data Scientist,29737.153999999995
+Seattle,Company - Private,Internet,Information Technology,9,5.0,Data Scientist,38665.644
+Dallas,Company - Private,Insurance Agencies & Brokerages,Insurance,8,5.0,Data Scientist,41433.07
+Chicago,Company - Private,Logistics & Supply Chain,Transportation & Logistics,26,5.0,Data Scientist,53360.814000000006
+Louisville,Nonprofit Organization,Logistics & Supply Chain,Transportation & Logistics,86,2.0,Data Scientist,34851.684
+Herndon,Company - Private,Enterprise Software & Network Solutions,Information Technology,9,5.0,Data Scientist,76579.08
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,172,3.0,Data Scientist,33587.34
+Hillsboro,Company - Private,Banks & Credit Unions,Finance,69,5.0,Data Scientist,43519.08
+Worcester,Company - Public,Insurance Carriers,Insurance,169,5.0,Data Analyst,-1883.7719999999972
+Groton,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,172,5.0,Data Scientist,31637.339999999997
+Clearwater,Company - Private,Security Services,Business Services,11,3.0,Data Scientist,32417.339999999997
+Richland,Government,Energy,"Oil, Gas, Energy & Utilities",56,1.0,Data Scientist,25787.339999999997
+Detroit,Company - Private,Real Estate,Real Estate,24,5.0,Data Scientist,43461.168
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,25,5.0,Data Scientist,54919.08
+Sunnyvale,Company - Public,Telecommunications Services,Telecommunications,25,5.0,Data Scientist,59859.08
+Ipswich,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,47,5.0,Data Scientist,53399.08
+San Jose,Company - Private,IT Services,Information Technology,13,5.0,Data Analyst,20333.569999999992
+Redlands,Company - Private,Computer Hardware & Software,Information Technology,52,5.0,Data Scientist,49219.08
+Woburn,Company - Private,Aerospace & Defense,Aerospace & Defense,11,5.0,Data Scientist,51499.08
+Fremont,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,151,5.0,Data Scientist,79999.08
+Long Beach,Company - Private,Insurance Carriers,Insurance,36,5.0,Data Engineer,48459.08
+San Francisco,Company - Private,IT Services,Information Technology,13,5.0,Data Analyst,4680.263999999996
+San Francisco,Company - Private,Enterprise Software & Network Solutions,Information Technology,11,5.0,Data Scientist,46122.004
+Allendale,Company - Public,Consumer Products Manufacturing,Manufacturing,6,2.0,Data Scientist,30467.339999999997
+Chicago,Company - Public,Real Estate,Real Estate,28,3.0,Data Scientist,66660.81400000001
+Washington,Company - Private,Enterprise Software & Network Solutions,Information Technology,-1,5.0,Data Scientist,78007.614
+Bellevue,Company - Public,IT Services,Information Technology,63,10.0,Data Scientist,106963.4
+Bellevue,Company - Public,IT Services,Information Technology,63,10.0,Data Scientist,106963.4
+Longmont,Company - Private,Enterprise Software & Network Solutions,Information Technology,35,20.0,Data Analyst,-12100.380000000001
+Beavercreek,Company - Private,Aerospace & Defense,Aerospace & Defense,22,5.0,Data Scientist,33587.34
+Peoria,Company - Public,Industrial Manufacturing,Manufacturing,96,5.0,Data Scientist,34386.71799999999
+Peoria,Company - Public,Industrial Manufacturing,Manufacturing,96,5.0,Data Scientist,34386.71799999999
+Fort Lauderdale,Subsidiary or Business Segment,Advertising & Marketing,Business Services,37,5.0,Data Scientist,37059.08
+Boston,Company - Private,Insurance Carriers,Insurance,109,5.0,Data Scientist,42444.36400000001
+Huntsville,Company - Private,Aerospace & Defense,Aerospace & Defense,19,10.0,Data Analyst,22486.481999999996
+Huntsville,Company - Private,Aerospace & Defense,Aerospace & Defense,19,10.0,Data Analyst,22524.747999999992
+Armonk,Company - Public,Insurance Agencies & Brokerages,Insurance,158,4.0,Data Scientist,55299.08
+San Diego,Company - Public,Aerospace & Defense,Aerospace & Defense,82,2.0,Data Scientist,37266.78800000001
+Albuquerque,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,151,5.0,Data Scientist,27724.225999999995
+San Francisco,Company - Private,Enterprise Software & Network Solutions,Information Technology,9,5.0,Data Scientist,55242.004
+Saint Louis,Company - Private,IT Services,Information Technology,5,5.0,Data Scientist,76959.08
+Baltimore,Company - Private,Banks & Credit Unions,Finance,13,5.0,Data Scientist,20768.719999999994
+Dallas,Company - Public,Real Estate,Real Estate,21,5.0,Data Scientist,40673.07
+Cincinnati,Subsidiary or Business Segment,Metals Brokers,Mining & Metals,136,5.0,Data Scientist,52127.296
+New York,Company - Private,Consulting,Business Services,10,5.0,Data Scientist,44584.6
+Palo Alto,Company - Public,Financial Transaction Processing,Finance,15,5.0,Data Scientist,73919.08
+Coraopolis,Company - Public,Sporting Goods Stores,Retail,73,5.0,Data Scientist,32417.339999999997
+Framingham,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,15,3.0,Data Scientist,57579.08
+Atlanta,Company - Private,Computer Hardware & Software,Information Technology,18,5.0,Data Scientist,28012.542
+Boston,Company - Public,Advertising & Marketing,Business Services,22,5.0,Data Scientist,-2287.3759999999966
+Philadelphia,Company - Private,Staffing & Outsourcing,Business Services,-1,5.0,Data Scientist,64258.036
+Vancouver,Company - Public,Computer Hardware & Software,Information Technology,82,4.0,Data Scientist,41999.08
+Indianapolis,Company - Private,Enterprise Software & Network Solutions,Information Technology,6,3.0,Other,21737.407999999996
+Lake Forest,Company - Public,Wholesale,Business Services,94,5.0,Other,103563.4
+Maryland Heights,Subsidiary or Business Segment,Research & Development,Business Services,43,10.0,Data Scientist,25397.339999999997
+Charlottesville,Company - Private,IT Services,Information Technology,11,5.0,Data Scientist,52215.494000000006
+Pittsburgh,Company - Private,Mining,Mining & Metals,161,3.0,Data Scientist,45019.434
+Vancouver,Company - Public,Computer Hardware & Software,Information Technology,82,5.0,Data Scientist,65179.08
+Mountain View,Company - Private,Enterprise Software & Network Solutions,Information Technology,10,5.0,Data Scientist,82279.08
+Cambridge,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,21,2.0,Data Scientist,34367.34
+Chantilly,Company - Private,Aerospace & Defense,Aerospace & Defense,4,7.0,Data Scientist,51499.08
+San Jose,Company - Private,IT Services,Information Technology,26,5.0,Data Scientist,26033.569999999992
+San Francisco,Company - Private,Health Care Services & Hospitals,Health Care,5,5.0,Data Scientist,32062.004
+Harrisburg,Company - Private,Advertising & Marketing,Business Services,24,3.0,Data Analyst,11794.511999999995
+Laurel,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,79,4.0,Data Scientist,72094.586
+Chicago,Company - Private,Computer Hardware & Software,Information Technology,13,5.0,Data Analyst,26529.074
+Arlington,Company - Private,Consulting,Business Services,19,5.0,Data Engineer,33977.34
+Tacoma,Company - Private,Wholesale,Business Services,73,5.0,Data Analyst,7847.3399999999965
+Plano,Company - Public,"Department, Clothing, & Shoe Stores",Retail,59,5.0,Data Scientist,73539.08
+San Jose,Company - Private,Consulting,Business Services,16,5.0,Data Scientist,26413.569999999992
+Miami,Company - Private,Enterprise Software & Network Solutions,Information Technology,13,5.0,Data Scientist,28942.473999999995
+Huntsville,Company - Private,IT Services,Information Technology,25,5.0,Other,6886.482000000004
+Huntsville,Company - Private,IT Services,Information Technology,25,5.0,Other,6924.748
+New Orleans,Company - Private,Enterprise Software & Network Solutions,Information Technology,22,5.0,Data Analyst,6465.556000000004
+San Francisco,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,31,8.0,Data Scientist,69746.324
+Atlanta,Company - Public,Financial Analytics & Research,Finance,53,2.0,Data Scientist,32302.542
+Landover,Company - Private,IT Services,Information Technology,18,5.0,Other,48839.08
+Patuxent River,Company - Private,IT Services,Information Technology,33,5.0,Data Scientist,22667.339999999997
+Suitland,Subsidiary or Business Segment,IT Services,Information Technology,25,8.0,Data Scientist,32807.34
+McLean,Nonprofit Organization,Federal Agencies,Government,63,2.0,Data Scientist,41999.08
+Fort Belvoir,Company - Private,IT Services,Information Technology,11,5.0,Data Scientist,43139.08
+Milwaukee,Company - Private,Insurance Carriers,Insurance,20,2.0,Data Analyst,12559.832000000002
+Silver Spring,Company - Private,IT Services,Information Technology,14,10.0,Data Scientist,68979.08
+New York,Company - Private,Research & Development,Business Services,9,5.0,Data Scientist,49144.6
+Syracuse,Company - Private,Security Services,Business Services,29,5.0,Data Scientist,34682.373999999996
+Houston,Subsidiary or Business Segment,Education Training Services,Education,6,5.0,Data Scientist,35974.511999999995
+Washington,Company - Private,Consulting,Business Services,86,16.0,Data Scientist,134665.784
+Charlotte,Company - Private,IT Services,Information Technology,24,3.0,Data Engineer,41282.666
+Southfield,Company - Public,Transportation Equipment Manufacturing,Manufacturing,27,5.0,Data Scientist,47319.08
+Matawan,Company - Private,Computer Hardware & Software,Information Technology,9,5.0,Data Analyst,10187.339999999997
+Phoenix,Company - Private,Enterprise Software & Network Solutions,Information Technology,11,5.0,Data Analyst,7371.902000000002
+Omaha,Hospital,Health Care Services & Hospitals,Health Care,44,5.0,Data Scientist,16804.225999999995
+San Francisco,Company - Private,Computer Hardware & Software,Information Technology,15,4.0,Data Scientist,57142.004
+Lyndhurst,Company - Private,Internet,Information Technology,2,5.0,Data Engineer,26957.339999999997
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,240,5.0,Data Scientist,54159.08
+New York,Company - Private,Internet,Information Technology,12,5.0,Data Scientist,63584.6
+San Francisco,Company - Private,Enterprise Software & Network Solutions,Information Technology,6,2.0,Data Scientist,38522.004
+San Francisco,Company - Public,Computer Hardware & Software,Information Technology,39,3.0,Data Engineer,19902.004
+Atlanta,Company - Private,Farm Support Services,Agriculture & Forestry,84,5.0,Data Scientist,28792.542
+Rockville,Company - Private,Health Care Services & Hospitals,Health Care,21,5.0,Data Scientist,49599.08
+Minneapolis,Company - Private,Consulting,Business Services,25,5.0,Data Engineer,38032.716
+Los Angeles,Nonprofit Organization,Health Care Services & Hospitals,Health Care,24,8.0,Data Scientist,43183.084
+Charlotte,Company - Private,Advertising & Marketing,Business Services,21,5.0,Data Engineer,70542.666
+Cambridge,Company - Private,Enterprise Software & Network Solutions,Information Technology,22,1.0,Data Scientist,44279.08
+Cincinnati,Company - Public,TV Broadcast & Cable Networks,Media,143,3.0,Data Scientist,52507.296
+Washington,Company - Private,Internet,Information Technology,6,5.0,Data Engineer,52927.61400000001
+Chicago,Company - Public,Real Estate,Real Estate,28,2.0,Data Engineer,38160.814000000006
+Baltimore,Company - Private,Research & Development,Business Services,35,3.0,Data Analyst,11798.719999999994
+Alabaster,Other Organization,Architectural & Engineering Services,Business Services,21,5.0,Data Scientist,-3300.3799999999974
+Kansas City,Company - Private,Staffing & Outsourcing,Business Services,4,5.0,Other,793.9640000000072
+Kansas City,Company - Private,Staffing & Outsourcing,Business Services,4,5.0,Other,793.9640000000072
+Ashburn,Company - Public,IT Services,Information Technology,63,4.0,Data Scientist,35919.08
+Chicago,Company - Private,Consulting,Business Services,13,5.0,Data Scientist,29259.074
+Herndon,Company - Private,Enterprise Software & Network Solutions,Information Technology,9,5.0,Data Scientist,79619.08
+Fort Worth,Company - Private,Brokerage Services,Finance,63,5.0,Data Scientist,32417.339999999997
+Novato,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,24,6.0,Data Scientist,95579.08000000002
+Aurora,Company - Private,Aerospace & Defense,Aerospace & Defense,14,15.0,Data Engineer,44279.08
+Aurora,Company - Private,Aerospace & Defense,Aerospace & Defense,14,15.0,Data Engineer,44279.08
+New York,Company - Private,Consulting,Business Services,78,5.0,Data Scientist,30904.6
+Chantilly,Company - Public,Research & Development,Business Services,53,5.0,Data Scientist,32417.339999999997
+Mountain View,Company - Private,Enterprise Software & Network Solutions,Information Technology,10,5.0,Data Scientist,84559.08
+Tampa,Company - Private,IT Services,Information Technology,4,5.0,Data Engineer,68063.356
+Chicago,Company - Private,Computer Hardware & Software,Information Technology,13,5.0,Data Engineer,43860.814000000006
+Denver,Company - Private,Travel Agencies,Travel & Tourism,10,5.0,Data Scientist,43068.894
+Riverton,Nonprofit Organization,Religious Organizations,Non-Profit,-1,5.0,Data Engineer,33977.34
+San Francisco,Company - Private,Real Estate,Real Estate,8,5.0,Data Analyst,16482.004
+Pittsburgh,College / University,Colleges & Universities,Education,37,5.0,Data Scientist,64779.434
+Richland,Government,Energy,"Oil, Gas, Energy & Utilities",56,1.0,Data Scientist,18377.339999999997
+Washington,Company - Private,IT Services,Information Technology,21,5.0,Data Engineer,26285.874000000003
+Chicago,Company - Private,Enterprise Software & Network Solutions,Information Technology,10,5.0,Data Scientist,72360.81400000001
+Cincinnati,Company - Private,Advertising & Marketing,Business Services,34,30.0,Data Scientist,46807.296
+Chattanooga,Nonprofit Organization,Insurance Carriers,Insurance,76,5.0,Data Engineer,52206.488
+Richland,Government,Energy,"Oil, Gas, Energy & Utilities",56,7.0,Data Scientist,42759.08
+Clearwater,Company - Private,Security Services,Business Services,11,5.0,Data Analyst,13697.339999999997
+Indianapolis,Company - Private,Consulting,Business Services,13,2.0,Data Engineer,52589.148
+Cambridge,Company - Private,Internet,Information Technology,16,5.0,Data Engineer,32027.339999999997
+Ewing,Company - Public,Consumer Products Manufacturing,Manufacturing,175,5.0,Other,51119.08
+Boston,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Scientist,80064.364
+South San Francisco,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,45,2.0,Data Scientist,96339.08000000002
+Cupertino,Company - Public,Telecommunications Services,Telecommunications,25,5.0,Data Scientist,75819.08
+Boston,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,240,5.0,Data Scientist,13312.624000000003
+Frederick,Company - Private,Insurance Carriers,Insurance,40,5.0,Data Scientist,49219.08
+Dallas,Company - Private,Insurance Agencies & Brokerages,Insurance,8,5.0,Data Scientist,41433.07
+San Francisco,Company - Private,Enterprise Software & Network Solutions,Information Technology,11,5.0,Data Scientist,46122.004
+Riverton,Nonprofit Organization,Religious Organizations,Non-Profit,-1,5.0,Data Engineer,49219.08
+Marlborough,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,11,3.0,Data Scientist,78099.08
+Herndon,Nonprofit Organization,Colleges & Universities,Education,28,8.0,Data Analyst,14087.339999999997
+West Reading,Nonprofit Organization,Health Care Services & Hospitals,Health Care,4,1.0,Data Scientist,-1122.6599999999962
+Madison,Government,Investment Banking & Asset Management,Finance,70,10.0,Data Scientist,59290.41
+Madison,Government,Investment Banking & Asset Management,Finance,70,10.0,Data Scientist,59290.41
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,8,2.0,Data Scientist,14477.339999999997
+San Francisco,Company - Public,Computer Hardware & Software,Information Technology,39,5.0,Data Scientist,52202.004
+Dearborn,Company - Private,Advertising & Marketing,Business Services,54,5.0,Other,34367.34
+Winter Park,Company - Public,Advertising & Marketing,Business Services,15,5.0,Data Engineer,21887.339999999997
+San Rafael,Subsidiary or Business Segment,"Department, Clothing, & Shoe Stores",Retail,15,3.0,Data Analyst,6287.3399999999965
+San Diego,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,240,5.0,Data Scientist,69186.788
+Hamilton,Company - Private,IT Services,Information Technology,7,5.0,Data Analyst,26567.339999999997
+Boston,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,240,5.0,Data Scientist,61824.36400000001
+Woodbridge,Company - Private,Insurance Carriers,Insurance,39,5.0,Data Scientist,42759.08
+San Francisco,Company - Private,IT Services,Information Technology,4,5.0,Data Scientist,104155.174
+Lewes,Nonprofit Organization,Health Care Services & Hospitals,Health Care,86,5.0,Other,10187.339999999997
+Boston,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,240,10.0,Data Scientist,78164.364
+New York,Company - Public,Insurance Carriers,Insurance,73,3.0,Data Scientist,68904.6
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,11210.049999999996
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18786.717999999993
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,11210.049999999996
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18786.717999999993
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,11210.049999999996
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18786.717999999993
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,11210.049999999996
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18786.717999999993
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,11210.049999999996
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18786.717999999993
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Pittsburgh,College / University,Colleges & Universities,Education,37,5.0,Data Scientist,61739.434
+Phoenix,Company - Public,Lending,Finance,13,5.0,Other,60873.64200000001
+Burbank,Company - Private,Financial Analytics & Research,Finance,12,5.0,Data Scientist,80379.08
+Huntsville,Company - Private,Aerospace & Defense,Aerospace & Defense,25,5.0,Data Analyst,15466.481999999996
+Huntsville,Company - Private,Aerospace & Defense,Aerospace & Defense,25,5.0,Data Analyst,15504.747999999992
+Worcester,Company - Public,Insurance Carriers,Insurance,169,5.0,Data Scientist,74187.968
+Newton,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,-1,2.0,Data Scientist,37439.08
+Chicago,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,6,5.0,Data Scientist,68940.81400000001
+Salt Lake City,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,8,5.0,Data Scientist,72421.386
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33060.522
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33328.384
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33060.522
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33328.384
+Annapolis Junction,Company - Private,Computer Hardware & Software,Information Technology,19,5.0,Data Engineer,38959.08
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,8,5.0,Data Scientist,70119.08
+San Francisco,Company - Private,Internet,Information Technology,14,5.0,Data Engineer,74506.324
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33060.522
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33328.384
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33060.522
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33328.384
+Mountain View,Company - Private,Internet,Information Technology,11,5.0,Data Engineer,120903.4
+Highland,Company - Private,Gambling,"Arts, Entertainment & Recreation",35,5.0,Data Analyst,3947.340000000004
+Burleson,Hospital,Health Care Services & Hospitals,Health Care,44,5.0,Data Scientist,827.3400000000038
+Hoopeston,Company - Private,Food & Beverage Manufacturing,Manufacturing,-1,5.0,Data Scientist,7067.3399999999965
+Pittsburgh,College / University,Colleges & Universities,Education,37,5.0,Data Scientist,64779.434
+Scotts Valley,Nonprofit Organization,Health Care Services & Hospitals,Health Care,25,5.0,Other,16037.339999999997
+Knoxville,Company - Private,Gas Stations,Retail,63,3.0,Data Engineer,45593.424000000006
+Millville,Nonprofit Organization,Health Care Services & Hospitals,Health Care,86,5.0,Other,10187.339999999997
+Milwaukee,Company - Private,Food & Beverage Manufacturing,Manufacturing,57,5.0,Data Scientist,10609.832000000002
+Rockville,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,60,5.0,Data Scientist,29297.339999999997
+Chicago,Company - Public,Transportation Management,Transportation & Logistics,16,3.0,Data Engineer,49560.814000000006
+Chicago,Company - Private,Logistics & Supply Chain,Transportation & Logistics,26,5.0,Data Scientist,53360.814000000006
+Herndon,Company - Public,Aerospace & Defense,Aerospace & Defense,26,5.0,Data Scientist,35537.34
+Sheboygan,Company - Private,Insurance Carriers,Insurance,96,5.0,Data Scientist,48220.478
+New York,Company - Private,Travel Agencies,Travel & Tourism,19,5.0,Data Analyst,6102.859999999993
+New Orleans,Government,Federal Agencies,Government,91,1.0,Data Scientist,1367.836000000003
+Dallas,Subsidiary or Business Segment,Consulting,Business Services,22,5.0,Data Scientist,23241.329999999994
+Clearwater,Company - Private,Security Services,Business Services,11,5.0,Data Analyst,13697.339999999997
+Ewing,Company - Public,Consumer Products Manufacturing,Manufacturing,175,5.0,Other,51119.08
+Cambridge,Company - Private,Internet,Information Technology,16,5.0,Data Engineer,32027.339999999997
+Chicago,Company - Private,Advertising & Marketing,Business Services,29,5.0,Data Scientist,34329.074
+San Mateo,Company - Public,Video Games,Media,24,5.0,Data Analyst,38199.08
+McLean,Nonprofit Organization,Federal Agencies,Government,63,2.0,Data Scientist,29687.339999999997
+Dayton,Company - Private,Trucking,Transportation & Logistics,40,5.0,Data Analyst,32176.195999999996
+Boston,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Scientist,80064.364
+South San Francisco,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,45,2.0,Data Scientist,96339.08000000002
+Cupertino,Company - Public,Telecommunications Services,Telecommunications,25,5.0,Data Scientist,75819.08
+Parlier,Nonprofit Organization,Social Assistance,Non-Profit,-1,5.0,Data Analyst,3167.340000000004
+Boston,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,240,5.0,Data Scientist,13312.624000000003
+San Francisco,Company - Private,Enterprise Software & Network Solutions,Information Technology,8,2.0,Data Analyst,-10139.736000000004
+Meridian,Company - Private,Computer Hardware & Software,Information Technology,37,3.0,Data Analyst,11225.220000000005
+Frederick,Company - Private,Insurance Carriers,Insurance,40,5.0,Data Scientist,49219.08
+Cherry Hill,Company - Private,Enterprise Software & Network Solutions,Information Technology,25,3.0,Data Analyst,12137.339999999997
+Indianapolis,Company - Private,IT Services,Information Technology,2,5.0,Data Scientist,38897.407999999996
+Riverton,Nonprofit Organization,Religious Organizations,Non-Profit,-1,5.0,Data Engineer,49219.08
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,172,3.0,Data Scientist,33587.34
+Louisville,Nonprofit Organization,Logistics & Supply Chain,Transportation & Logistics,86,2.0,Data Scientist,34851.684
+New York,Company - Private,Consulting,Business Services,29,5.0,Other,44204.6
+Marlborough,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,11,3.0,Data Scientist,78099.08
+Nashville,Company - Public,Internet,Information Technology,15,5.0,Data Engineer,34719.074
+Chicago,Company - Private,Internet,Information Technology,20,5.0,Data Engineer,43860.814000000006
+Herndon,Nonprofit Organization,Colleges & Universities,Education,28,8.0,Data Analyst,14087.339999999997
+Portland,Company - Public,Advertising & Marketing,Business Services,22,4.0,Data Scientist,36264.50000000001
+Portland,Company - Public,Advertising & Marketing,Business Services,22,4.0,Data Scientist,34925.19
+Portland,Company - Public,Advertising & Marketing,Business Services,22,4.0,Data Scientist,36264.50000000001
+Portland,Company - Public,Advertising & Marketing,Business Services,22,4.0,Data Scientist,34925.19
+Minneapolis,Company - Private,Consulting,Business Services,29,5.0,Data Analyst,23330.975999999995
+Port Washington,Company - Private,Research & Development,Business Services,55,5.0,Data Scientist,-24420.38
+Austin,Company - Private,Advertising & Marketing,Business Services,11,5.0,Data Scientist,28721.784
+Madison,Government,Investment Banking & Asset Management,Finance,70,10.0,Data Scientist,59290.41
+Madison,Government,Investment Banking & Asset Management,Finance,70,10.0,Data Scientist,59290.41
+South San Francisco,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,45,4.0,Data Scientist,91779.08
+Providence,Nonprofit Organization,Insurance Carriers,Insurance,82,5.0,Data Analyst,39498.490000000005
+Omaha,Nonprofit Organization,Social Assistance,Non-Profit,104,5.0,Data Scientist,9784.225999999995
+West Reading,Nonprofit Organization,Health Care Services & Hospitals,Health Care,4,1.0,Data Scientist,-1122.6599999999962
+Washington,Nonprofit Organization,Health Care Services & Hospitals,Health Care,138,5.0,Data Analyst,-2574.1259999999893
+Austin,Company - Private,Consulting,Business Services,15,10.0,Data Engineer,36053.524000000005
+Cincinnati,Company - Private,Insurance Agencies & Brokerages,Insurance,134,5.0,Data Scientist,42627.296
+San Francisco,Company - Public,Computer Hardware & Software,Information Technology,39,5.0,Data Scientist,52202.004
+Raleigh,Company - Public,Insurance Carriers,Insurance,17,5.0,Data Scientist,45533.878000000004
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,8,2.0,Data Scientist,14477.339999999997
+Dearborn,Company - Private,Advertising & Marketing,Business Services,54,5.0,Other,34367.34
+Groton,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,172,5.0,Data Scientist,31637.339999999997
+Herndon,Company - Private,Enterprise Software & Network Solutions,Information Technology,9,5.0,Data Scientist,76579.08
+Phila,Company - Private,Staffing & Outsourcing,Business Services,-1,5.0,Data Scientist,85699.08
+Winter Park,Company - Public,Advertising & Marketing,Business Services,15,5.0,Data Engineer,21887.339999999997
+Oakland,Company - Private,Insurance Carriers,Insurance,21,5.0,Data Scientist,49979.08
+San Diego,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,240,5.0,Data Scientist,69186.788
+San Rafael,Subsidiary or Business Segment,"Department, Clothing, & Shoe Stores",Retail,15,3.0,Data Analyst,6287.3399999999965
+Boston,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,240,5.0,Data Scientist,61824.36400000001
+Hamilton,Company - Private,IT Services,Information Technology,7,5.0,Data Analyst,26567.339999999997
+Boise,Company - Private,Investment Banking & Asset Management,Finance,17,5.0,Data Analyst,15647.339999999997
+San Francisco,Company - Private,IT Services,Information Technology,-1,5.0,Data Scientist,20662.004
+Oak Ridge,Company - Public,Aerospace & Defense,Aerospace & Defense,171,3.0,Data Scientist,40859.08
+San Francisco,Company - Private,IT Services,Information Technology,4,5.0,Data Scientist,104155.174
+Agoura Hills,Company - Public,Lending,Finance,13,5.0,Data Engineer,44659.08
+Woodbridge,Company - Private,Insurance Carriers,Insurance,39,5.0,Data Scientist,42759.08
+Pella,Company - Private,Industrial Manufacturing,Manufacturing,73,5.0,Data Engineer,26567.339999999997
+Boston,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,240,10.0,Data Scientist,78164.364
+Lewes,Nonprofit Organization,Health Care Services & Hospitals,Health Care,86,5.0,Other,10187.339999999997
+New York,Company - Public,Insurance Carriers,Insurance,73,3.0,Data Scientist,68904.6
+San Ramon,Company - Public,IT Services,Information Technology,24,5.0,Data Scientist,36299.08
+Red Bank,Company - Public,Banks & Credit Unions,Finance,119,4.0,Data Analyst,11357.339999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,11210.049999999996
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18786.717999999993
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,11210.049999999996
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18786.717999999993
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,11210.049999999996
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18786.717999999993
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,11210.049999999996
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18786.717999999993
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,11210.049999999996
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18786.717999999993
+Springfield,Company - Private,Energy,"Oil, Gas, Energy & Utilities",60,5.0,Data Analyst,18480.589999999997
+Pittsburgh,College / University,Colleges & Universities,Education,37,5.0,Data Scientist,61739.434
+New York,Company - Public,Auctions & Galleries,Retail,277,5.0,Data Scientist,54464.6
+Hillsboro,Company - Private,Banks & Credit Unions,Finance,69,5.0,Data Scientist,43519.08
+Detroit,Company - Private,Real Estate,Real Estate,24,5.0,Data Scientist,43461.168
+Washington,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,18,5.0,Data Scientist,36967.61400000001
+Burbank,Company - Private,Financial Analytics & Research,Finance,12,5.0,Data Scientist,80379.08
+Fort Belvoir,Company - Private,Enterprise Software & Network Solutions,Information Technology,9,5.0,Data Scientist,75819.08
+Palo Alto,Company - Private,K-12 Education,Education,14,5.0,Data Scientist,96339.08000000002
+Phoenix,Company - Public,Lending,Finance,13,5.0,Other,60873.64200000001
+Huntsville,Company - Private,Aerospace & Defense,Aerospace & Defense,25,5.0,Data Analyst,15466.481999999996
+Huntsville,Company - Private,Aerospace & Defense,Aerospace & Defense,25,5.0,Data Analyst,15504.747999999992
+San Diego,Company - Private,Consulting,Business Services,34,5.0,Other,-6784.9519999999975
+Houston,Company - Private,IT Services,Information Technology,39,5.0,Data Engineer,26614.511999999995
+Armonk,Company - Public,Insurance Agencies & Brokerages,Insurance,158,5.0,Data Scientist,73539.08
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,240,5.0,Data Engineer,45799.08
+Columbia,Company - Private,Architectural & Engineering Services,Business Services,92,5.0,Data Scientist,17210.471999999994
+Columbia,Company - Private,Architectural & Engineering Services,Business Services,92,5.0,Data Scientist,16406.886
+Columbia,Company - Private,Architectural & Engineering Services,Business Services,92,5.0,Data Scientist,17210.471999999994
+Columbia,Company - Private,Architectural & Engineering Services,Business Services,92,5.0,Data Scientist,16406.886
+Worcester,Company - Public,Insurance Carriers,Insurance,169,5.0,Data Scientist,74187.968
+South San Francisco,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,45,5.0,Data Scientist,62899.08
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,34080.59
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,26810.049999999996
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,34386.71799999999
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,34080.59
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,34080.59
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,26810.049999999996
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,34386.71799999999
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,34080.59
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,34080.59
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,26810.049999999996
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,34386.71799999999
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,34080.59
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,34080.59
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,26810.049999999996
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,34386.71799999999
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,34080.59
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,34080.59
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,26810.049999999996
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,34386.71799999999
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Analyst,34080.59
+Chicago,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,6,5.0,Data Scientist,68940.81400000001
+Washington,Subsidiary or Business Segment,IT Services,Information Technology,25,5.0,Data Analyst,18485.874000000003
+Herndon,Company - Public,Research & Development,Business Services,53,7.0,Data Engineer,37819.08
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,25,5.0,Data Scientist,59859.08
+San Francisco,Company - Public,Computer Hardware & Software,Information Technology,39,5.0,Data Engineer,61322.004
+San Antonio,Nonprofit Organization,Research & Development,Business Services,74,5.0,Other,15710.757999999994
+Indianapolis,Company - Private,Enterprise Software & Network Solutions,Information Technology,6,7.0,Data Engineer,40429.148
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,25,5.0,Data Scientist,54919.08
+Sunnyvale,Company - Public,Telecommunications Services,Telecommunications,25,5.0,Data Scientist,59859.08
+Dallas,Subsidiary or Business Segment,Advertising & Marketing,Business Services,28,6.0,Data Scientist,52073.07
+Newton,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,-1,2.0,Data Scientist,37439.08
+Portsmouth,Company - Public,Research & Development,Business Services,53,5.0,Data Analyst,26962.037999999997
+Richland,Government,Energy,"Oil, Gas, Energy & Utilities",56,5.0,Data Scientist,25787.339999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,35331.79
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42908.458
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,35331.79
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42908.458
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,35331.79
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42908.458
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,35331.79
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42908.458
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,35331.79
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42908.458
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Salt Lake City,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,8,5.0,Data Scientist,72421.386
+Arlington,Company - Private,Computer Hardware & Software,Information Technology,52,5.0,Data Engineer,30077.339999999997
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33060.522
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33328.384
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33060.522
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33328.384
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,8,5.0,Data Scientist,70119.08
+San Francisco,Company - Private,Advertising & Marketing,Business Services,13,5.0,Data Scientist,62842.004000000015
+West Palm Beach,Company - Public,Telecommunications Manufacturing,Telecommunications,30,3.0,Data Analyst,437.3400000000038
+Annapolis Junction,Company - Private,Computer Hardware & Software,Information Technology,19,5.0,Data Engineer,38959.08
+Herndon,Company - Private,Enterprise Software & Network Solutions,Information Technology,6,10.0,Data Engineer,50739.08
+Austin,Company - Private,Computer Hardware & Software,Information Technology,11,5.0,Data Engineer,78993.524
+Washington,Company - Private,Research & Development,Business Services,14,5.0,Data Engineer,9515.874000000003
+Charlotte,Company - Public,Insurance Carriers,Insurance,4,4.0,Data Scientist,63322.666
+San Jose,Company - Private,Advertising & Marketing,Business Services,23,3.0,Data Engineer,26413.569999999992
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33060.522
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33328.384
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33060.522
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33328.384
+Alexandria,Company - Private,IT Services,Information Technology,32,5.0,Data Analyst,26778.047999999995
+Boston,Company - Private,Insurance Carriers,Insurance,170,5.0,Other,32184.36400000001
+Redlands,Company - Private,Computer Hardware & Software,Information Technology,52,5.0,Data Scientist,49219.08
+Ipswich,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,47,5.0,Data Scientist,53399.08
+San Francisco,Company - Private,Internet,Information Technology,14,5.0,Data Engineer,74506.324
+Chicago,Company - Public,Computer Hardware & Software,Information Technology,93,5.0,Data Analyst,13659.074
+Mountain View,Company - Private,Internet,Information Technology,11,5.0,Data Engineer,120903.4
+Owensboro,Company - Private,Consumer Products Manufacturing,Manufacturing,146,5.0,Data Scientist,51686.724
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,12770.049999999996
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20346.717999999993
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,12770.049999999996
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20346.717999999993
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,12770.049999999996
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20346.717999999993
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,12770.049999999996
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20346.717999999993
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,12770.049999999996
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20346.717999999993
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Hartford,Company - Public,IT Services,Information Technology,40,3.0,Other,13030.571999999993
+Orange,Company - Private,Health Care Services & Hospitals,Health Care,8,5.0,Data Engineer,39719.08
+Highland,Company - Private,Gambling,"Arts, Entertainment & Recreation",35,5.0,Data Analyst,3947.340000000004
+Marlborough,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,11,5.0,Data Scientist,85319.08
+Burleson,Hospital,Health Care Services & Hospitals,Health Care,44,5.0,Data Scientist,827.3400000000038
+Lenexa,Company - Public,Stock Exchanges,Finance,48,7.0,Data Engineer,33977.34
+Hoopeston,Company - Private,Food & Beverage Manufacturing,Manufacturing,-1,5.0,Data Scientist,7067.3399999999965
+New York,Company - Private,Research & Development,Business Services,18,2.0,Data Engineer,5712.859999999993
+Concord,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,-1,2.0,Data Scientist,49463.002
+Concord,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,-1,2.0,Data Scientist,49463.002
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,240,5.0,Data Engineer,85319.08
+Pittsburgh,College / University,Colleges & Universities,Education,37,5.0,Data Scientist,64779.434
+Chicago,Company - Private,Consulting,Business Services,13,5.0,Data Scientist,65520.814000000006
+Vail,Hospital,Health Care Services & Hospitals,Health Care,55,3.0,Data Scientist,16817.339999999997
+Scotts Valley,Nonprofit Organization,Health Care Services & Hospitals,Health Care,25,5.0,Other,16037.339999999997
+Knoxville,Company - Private,Gas Stations,Retail,63,3.0,Data Engineer,45593.424000000006
+San Francisco,Company - Private,Enterprise Software & Network Solutions,Information Technology,11,5.0,Data Scientist,46122.004
+New York,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,108,5.0,Data Scientist,61304.6
+Denver,Nonprofit Organization,Insurance Carriers,Insurance,106,5.0,Data Engineer,38508.894
+Milwaukee,Company - Private,Food & Beverage Manufacturing,Manufacturing,57,5.0,Data Scientist,10609.832000000002
+Natick,Company - Private,Computer Hardware & Software,Information Technology,37,7.0,Data Scientist,73919.08
+Rockville,Company - Private,IT Services,Information Technology,22,5.0,Data Engineer,50739.08
+Chicago,Company - Private,Insurance Carriers,Insurance,109,7.0,Other,153043.984
+South San Francisco,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,9,5.0,Data Scientist,23057.339999999997
+Rockville,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,60,5.0,Data Scientist,29297.339999999997
+Millville,Nonprofit Organization,Health Care Services & Hospitals,Health Care,86,5.0,Other,10187.339999999997
+Winston-Salem,Company - Private,Consumer Products Manufacturing,Manufacturing,146,5.0,Data Scientist,46886.488
+Richfield,Company - Private,Insurance Carriers,Insurance,32,2.0,Data Analyst,1607.3400000000038
+Indianapolis,Company - Private,Consulting,Business Services,25,20.0,Data Engineer,64749.148
+Chicago,Company - Public,Financial Analytics & Research,Finance,53,5.0,Data Scientist,74260.81400000001
+Hampton,Nonprofit Organization,Federal Agencies,Government,63,5.0,Data Engineer,26567.339999999997
+Cambridge,Company - Private,Construction,"Construction, Repair & Maintenance",45,5.0,Other,9017.339999999997
+Winston-Salem,Company - Private,Consumer Products Manufacturing,Manufacturing,146,7.0,Data Scientist,60566.488
+San Diego,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,15,5.0,Data Scientist,7255.0480000000025
+San Francisco,Company - Private,Computer Hardware & Software,Information Technology,10,5.0,Other,-15989.736000000004
+Ithaca,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,6,5.0,Data Scientist,20066.817999999992
+Marietta,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,6,5.0,Data Scientist,28517.339999999997
+Quincy,Company - Private,Insurance Carriers,Insurance,33,3.0,Data Engineer,41158.862
+Pittsburgh,College / University,Colleges & Universities,Education,37,15.0,Data Scientist,26087.693999999996
+Fort Lauderdale,Subsidiary or Business Segment,Advertising & Marketing,Business Services,37,5.0,Data Scientist,37059.08
+Washington,Company - Private,Enterprise Software & Network Solutions,Information Technology,-1,5.0,Data Scientist,78007.614
+Boston,Company - Private,Insurance Carriers,Insurance,170,5.0,Other,53844.36400000001
+New York,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,172,3.0,Data Scientist,84484.6
+Green Bay,Company - Public,Banks & Credit Unions,Finance,151,2.0,Data Analyst,16208.215999999993
+Burbank,Company - Private,Financial Analytics & Research,Finance,12,5.0,Data Scientist,103903.4
+New York,Company - Private,Travel Agencies,Travel & Tourism,19,5.0,Data Analyst,6102.859999999993
+Durham,Company - Private,Computer Hardware & Software,Information Technology,31,5.0,Data Engineer,53475.612
+New York,Company - Private,"Department, Clothing, & Shoe Stores",Retail,11,5.0,Data Analyst,23652.859999999993
+Indianapolis,Company - Private,Insurance Carriers,Insurance,109,5.0,Data Engineer,10037.407999999996
+Boston,Company - Private,Banks & Credit Unions,Finance,165,9.0,Other,2392.6240000000034
+Chandler,Company - Public,Health Care Services & Hospitals,Health Care,40,5.0,Data Engineer,43899.08
+Chantilly,Company - Private,IT Services,Information Technology,17,5.0,Data Engineer,32417.339999999997
+Orlando,Company - Private,Computer Hardware & Software,Information Technology,9,5.0,Data Scientist,60083.356
+Chicago,Company - Private,Enterprise Software & Network Solutions,Information Technology,26,5.0,Other,17949.074
+Columbia,Company - Private,Lending,Finance,19,5.0,Other,25010.471999999994
+Columbia,Company - Private,Lending,Finance,19,5.0,Other,24206.886
+Columbia,Company - Private,Lending,Finance,19,5.0,Other,25010.471999999994
+Columbia,Company - Private,Lending,Finance,19,5.0,Other,24206.886
+Austin,Company - Private,Security Services,Business Services,11,8.0,Data Engineer,70633.524
+Boston,Company - Private,Consulting,Business Services,78,5.0,Data Scientist,37124.36400000001
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,13,6.0,Data Scientist,59479.08
+Rockville,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,60,5.0,Data Scientist,29297.339999999997
+Owensboro,Company - Private,Consumer Products Manufacturing,Manufacturing,146,5.0,Data Scientist,51686.724
+Chicago,Company - Public,Transportation Management,Transportation & Logistics,16,3.0,Data Engineer,49560.814000000006
+San Francisco,Company - Private,Internet,Information Technology,14,3.0,Data Engineer,60942.004
+Redlands,Company - Private,Computer Hardware & Software,Information Technology,52,5.0,Data Engineer,19547.339999999997
+Westlake,Company - Public,Insurance Carriers,Insurance,43,5.0,Data Scientist,51879.08
+Peoria,Company - Public,Industrial Manufacturing,Manufacturing,96,5.0,Data Scientist,34386.71799999999
+Peoria,Company - Public,Industrial Manufacturing,Manufacturing,96,5.0,Data Scientist,34386.71799999999
+Chicago,Company - Public,Real Estate,Real Estate,28,3.0,Data Scientist,66660.81400000001
+Cedar Rapids,Company - Private,Lending,Finance,29,3.0,Data Analyst,4210.994000000006
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,18,3.0,Data Scientist,74299.08
+Philadelphia,Company - Private,Insurance Carriers,Insurance,38,30.0,Data Analyst,16686.295999999995
+San Francisco,Company - Private,Staffing & Outsourcing,Business Services,15,3.0,Data Engineer,9642.004
+Omaha,Nonprofit Organization,Health Care Services & Hospitals,Health Care,25,5.0,Data Scientist,9004.225999999995
+Nashville,Company - Public,Financial Transaction Processing,Finance,21,5.0,Data Analyst,-13898.645999999997
+Chicago,Company - Private,Insurance Carriers,Insurance,109,5.0,Other,113725.13399999999
+San Antonio,Nonprofit Organization,Research & Development,Business Services,74,3.0,Other,24680.757999999994
+Austin,College / University,Colleges & Universities,Education,-1,5.0,Data Scientist,45553.524000000005
+Winston-Salem,Company - Private,Consumer Products Manufacturing,Manufacturing,146,2.0,Data Scientist,27204.747999999992
+Huntsville,Company - Public,Aerospace & Defense,Aerospace & Defense,99,2.0,Data Engineer,18196.481999999996
+Huntsville,Company - Public,Aerospace & Defense,Aerospace & Defense,99,2.0,Data Engineer,18234.747999999992
+Durham,Nonprofit Organization,Research & Development,Business Services,63,30.0,Data Scientist,17283.871999999996
+Fort Lee,Company - Private,Advertising & Marketing,Business Services,32,5.0,Other,90639.08
+Blue Bell,Other Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,18,5.0,Data Analyst,22667.339999999997
+San Francisco,Company - Public,Computer Hardware & Software,Information Technology,13,5.0,Data Engineer,43462.004
+San Francisco,Company - Private,Internet,Information Technology,14,5.0,Data Engineer,41562.004
+New York,Company - Private,Travel Agencies,Travel & Tourism,19,5.0,Data Scientist,13512.859999999993
+Winston-Salem,Company - Private,Consumer Products Manufacturing,Manufacturing,146,5.0,Data Scientist,32274.747999999992
+Albuquerque,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,151,5.0,Data Scientist,27724.225999999995
+Saint Louis,Company - Private,IT Services,Information Technology,5,5.0,Data Scientist,76959.08
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,49442.33
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,42171.79
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,49748.458
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,49442.33
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,49442.33
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,42171.79
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,49748.458
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,49442.33
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,49442.33
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,42171.79
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,49748.458
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,49442.33
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,49442.33
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,42171.79
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,49748.458
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,49442.33
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,49442.33
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,42171.79
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,49748.458
+Springfield,Company - Private,Aerospace & Defense,Aerospace & Defense,7,10.0,Data Scientist,49442.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,35331.79
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42908.458
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,35331.79
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42908.458
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,35331.79
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42908.458
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,35331.79
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42908.458
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,35331.79
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42908.458
+Springfield,Company - Private,Insurance Carriers,Insurance,170,5.0,Data Engineer,42602.33
+Richland,Government,Energy,"Oil, Gas, Energy & Utilities",56,5.0,Data Scientist,25787.339999999997
+Salt Lake City,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,8,5.0,Data Scientist,72421.386
+Jersey City,Company - Public,Investment Banking & Asset Management,Finance,209,5.0,Data Scientist,56439.08
+San Francisco,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,22,5.0,Data Scientist,109030.174
+San Francisco,Company - Private,Enterprise Software & Network Solutions,Information Technology,5,5.0,Data Scientist,29402.004
+Arlington,Company - Private,Computer Hardware & Software,Information Technology,52,5.0,Data Engineer,30077.339999999997
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33060.522
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33328.384
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33060.522
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33328.384
+Emeryville,Company - Public,IT Services,Information Technology,14,5.0,Data Scientist,84179.08
+Palo Alto,Company - Private,Internet,Information Technology,13,3.0,Data Scientist,64419.08
+Santa Barbara,Company - Private,Computer Hardware & Software,Information Technology,11,5.0,Data Scientist,32807.34
+New York,Subsidiary or Business Segment,TV Broadcast & Cable Networks,Media,29,5.0,Data Scientist,54464.6
+King of Prussia,Company - Private,Staffing & Outsourcing,Business Services,-1,5.0,Data Engineer,37439.08
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,8,5.0,Data Scientist,70119.08
+San Francisco,Company - Private,Advertising & Marketing,Business Services,13,5.0,Data Scientist,62842.004000000015
+Annapolis Junction,Company - Private,Computer Hardware & Software,Information Technology,19,5.0,Data Engineer,38959.08
+West Palm Beach,Company - Public,Telecommunications Manufacturing,Telecommunications,30,3.0,Data Analyst,437.3400000000038
+Austin,Company - Private,Computer Hardware & Software,Information Technology,11,5.0,Data Engineer,78993.524
+Washington,Company - Private,Research & Development,Business Services,14,5.0,Data Engineer,9515.874000000003
+Herndon,Company - Private,Enterprise Software & Network Solutions,Information Technology,6,10.0,Data Engineer,50739.08
+Mountain View,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,33,5.0,Data Engineer,101863.4
+Arlington,Company - Private,Aerospace & Defense,Aerospace & Defense,11,5.0,Data Scientist,49219.08
+Santa Clara,Company - Private,Enterprise Software & Network Solutions,Information Technology,9,5.0,Data Scientist,85319.08
+Santa Clara,Company - Private,Accounting,Accounting & Legal,-1,5.0,Data Scientist,54159.08
+Charlotte,Company - Public,Insurance Carriers,Insurance,4,4.0,Data Scientist,63322.666
+Brisbane,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,-1,5.0,Data Scientist,76959.08
+San Francisco,Company - Private,IT Services,Information Technology,-1,8.0,Data Scientist,24082.004
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,49822.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,42551.79
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,50128.458
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,49822.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,49822.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,42551.79
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,50128.458
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,49822.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,49822.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,42551.79
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,50128.458
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,49822.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,49822.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,42551.79
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,50128.458
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,49822.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,49822.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,42551.79
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,50128.458
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,52,5.0,Data Scientist,49822.33
+New York,Subsidiary or Business Segment,Health Care Products Manufacturing,Manufacturing,86,25.0,Data Analyst,12342.859999999993
+New York,Company - Public,Consulting,Business Services,5,1.0,Data Scientist,18192.859999999993
+San Jose,Company - Private,Advertising & Marketing,Business Services,23,3.0,Data Engineer,26413.569999999992
+Foster City,Company - Private,"Health, Beauty, & Fitness",Consumer Services,-1,5.0,Data Scientist,73919.08
+New York,Company - Private,IT Services,Information Technology,10,5.0,Data Scientist,67764.6
+New York,Company - Private,Lending,Finance,14,4.0,Data Scientist,23262.859999999993
+Holyoke,Company - Private,Banks & Credit Unions,Finance,136,5.0,Data Scientist,44279.08
+New York,Company - Public,Enterprise Software & Network Solutions,Information Technology,54,10.0,Data Scientist,68904.6
+New York,Company - Private,Insurance Carriers,Insurance,107,5.0,Data Engineer,41164.6
+Waltham,Company - Private,Consulting,Business Services,-1,5.0,Data Scientist,39339.08
+New York,Company - Public,Enterprise Software & Network Solutions,Information Technology,22,5.0,Data Scientist,51044.6
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33060.522
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33328.384
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33060.522
+Rochester,Hospital,Health Care Services & Hospitals,Health Care,7,5.0,Data Scientist,33328.384
+Alexandria,Company - Private,IT Services,Information Technology,32,5.0,Data Analyst,26778.047999999995
+Corvallis,Company - Public,Computer Hardware & Software,Information Technology,82,2.0,Data Engineer,19001.144
+Boston,Company - Private,Insurance Carriers,Insurance,170,5.0,Other,32184.36400000001
+San Francisco,Company - Private,Internet,Information Technology,14,5.0,Data Engineer,74506.324
+San Diego,Company - Public,Aerospace & Defense,Aerospace & Defense,82,2.0,Data Scientist,37266.78800000001
+Bellevue,Company - Public,IT Services,Information Technology,63,10.0,Data Scientist,106963.4
+Bellevue,Company - Public,IT Services,Information Technology,63,10.0,Data Scientist,106963.4
+New York,Company - Private,Enterprise Software & Network Solutions,Information Technology,7,5.0,Data Scientist,82584.6
+Chicago,Company - Public,Computer Hardware & Software,Information Technology,93,5.0,Data Analyst,13659.074
+Mountain View,Company - Private,Internet,Information Technology,11,5.0,Data Engineer,120903.4
+New York,School / School District,K-12 Education,Education,15,5.0,Data Analyst,1812.8599999999933
+Owensboro,Company - Private,Consumer Products Manufacturing,Manufacturing,146,5.0,Data Scientist,51686.724
+Hartford,Company - Public,IT Services,Information Technology,40,3.0,Other,13030.571999999993
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,12770.049999999996
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20346.717999999993
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,12770.049999999996
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20346.717999999993
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,12770.049999999996
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20346.717999999993
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,12770.049999999996
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20346.717999999993
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,12770.049999999996
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20346.717999999993
+Springfield,Company - Private,Insurance Carriers,Insurance,170,10.0,Other,20040.589999999997
+New York,Company - Private,Health Care Services & Hospitals,Health Care,41,5.0,Data Analyst,6882.859999999993
+Orange,Company - Private,Health Care Services & Hospitals,Health Care,8,5.0,Data Engineer,39719.08
+New York,Company - Private,Education Training Services,Education,9,5.0,Data Scientist,14292.859999999993
+Fort Belvoir,Company - Public,Aerospace & Defense,Aerospace & Defense,67,5.0,Data Engineer,33977.34
+Gaithersburg,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,108,5.0,Data Scientist,74299.08
+Silver Spring,Company - Private,IT Services,Information Technology,15,3.0,Data Scientist,33197.34
+Palo Alto,Company - Private,Internet,Information Technology,9,5.0,Data Scientist,56439.08
+Marlborough,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,11,5.0,Data Scientist,85319.08
+Lenexa,Company - Public,Stock Exchanges,Finance,48,7.0,Data Engineer,33977.34
+Highland,Company - Private,Gambling,"Arts, Entertainment & Recreation",35,5.0,Data Analyst,3947.340000000004
+Houston,Company - Private,IT Services,Information Technology,19,5.0,Data Engineer,30124.511999999995
+Burleson,Hospital,Health Care Services & Hospitals,Health Care,44,5.0,Data Scientist,827.3400000000038
+Hoopeston,Company - Private,Food & Beverage Manufacturing,Manufacturing,-1,5.0,Data Scientist,7067.3399999999965
+San Jose,Company - Public,Aerospace & Defense,Aerospace & Defense,82,16.0,Data Scientist,71017.88999999998
+Phoenix,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,24,5.0,Data Engineer,17901.902000000002
+New York,Company - Private,Investment Banking & Asset Management,Finance,20,5.0,Data Scientist,87748.91999999998
+Boston,Company - Private,Insurance Carriers,Insurance,109,5.0,Data Scientist,42444.36400000001
+Gaithersburg,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,108,5.0,Data Scientist,40099.08
+Bedford,Nonprofit Organization,Federal Agencies,Government,63,1.0,Data Scientist,20327.339999999997
+New York,Company - Private,Research & Development,Business Services,18,2.0,Data Engineer,5712.859999999993
+Concord,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,-1,2.0,Data Scientist,49463.002
+Concord,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,-1,2.0,Data Scientist,49463.002
+New York,Company - Private,Consumer Product Rental,Consumer Services,14,5.0,Data Scientist,31284.6
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,240,5.0,Data Engineer,85319.08
+Pittsburgh,College / University,Colleges & Universities,Education,37,5.0,Data Scientist,64779.434
+New York,Company - Private,Health Care Services & Hospitals,Health Care,10,5.0,Data Scientist,29384.6
+Chicago,Company - Private,Consulting,Business Services,13,5.0,Data Scientist,65520.814000000006
+San Francisco,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,15,5.0,Data Scientist,83346.324
+New York,Company - Public,Advertising & Marketing,Business Services,16,2.0,Data Scientist,36604.6
+Vail,Hospital,Health Care Services & Hospitals,Health Care,55,3.0,Data Scientist,16817.339999999997
+Charlotte,Company - Private,IT Services,Information Technology,13,4.0,Data Engineer,33610.92599999999
+Salt Lake City,Nonprofit Organization,Religious Organizations,Non-Profit,-1,2.0,Data Analyst,2859.6460000000006
+Aliso Viejo,Company - Public,Video Games,Media,24,5.0,Data Engineer,53779.08
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,191,5.0,Data Scientist,36679.08
+Los Angeles,Company - Private,Computer Hardware & Software,Information Technology,13,5.0,Data Scientist,68643.084
+Dublin,Company - Public,Consulting,Business Services,33,4.0,Data Analyst,61759.08
+New York,Company - Private,Internet,Information Technology,11,5.0,Data Analyst,-7937.139999999999
+Scotts Valley,Nonprofit Organization,Health Care Services & Hospitals,Health Care,25,5.0,Other,16037.339999999997
+San Jose,Company - Public,Computer Hardware & Software,Information Technology,39,5.0,Data Engineer,62893.56999999999
+New York,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,108,5.0,Data Scientist,61304.6
+Knoxville,Company - Private,Gas Stations,Retail,63,3.0,Data Engineer,45593.424000000006
+Armonk,Company - Public,Insurance Agencies & Brokerages,Insurance,158,4.0,Data Scientist,55299.08
+Arvada,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,151,5.0,Data Scientist,69359.08
+Denver,Nonprofit Organization,Insurance Carriers,Insurance,106,5.0,Data Engineer,38508.894
+Milwaukee,Company - Private,Food & Beverage Manufacturing,Manufacturing,57,5.0,Data Scientist,10609.832000000002
+Franklin,Company - Private,Health Care Services & Hospitals,Health Care,17,5.0,Data Engineer,50739.08
+Rockville,Company - Private,IT Services,Information Technology,22,5.0,Data Engineer,50739.08
+Natick,Company - Private,Computer Hardware & Software,Information Technology,37,7.0,Data Scientist,73919.08
+Chicago,Company - Private,Insurance Carriers,Insurance,109,7.0,Other,153043.984
+New York,Company - Private,Computer Hardware & Software,Information Technology,46,5.0,Data Engineer,52184.6
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,25,5.0,Other,48839.08
+South San Francisco,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,9,5.0,Data Scientist,23057.339999999997
+Rockville,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,60,5.0,Data Scientist,29297.339999999997
+Millville,Nonprofit Organization,Health Care Services & Hospitals,Health Care,86,5.0,Other,10187.339999999997
+Winston-Salem,Company - Private,Consumer Products Manufacturing,Manufacturing,146,5.0,Data Scientist,46886.488
+Richfield,Company - Private,Insurance Carriers,Insurance,32,2.0,Data Analyst,1607.3400000000038
+Worcester,Company - Public,Insurance Carriers,Insurance,169,3.0,Data Analyst,3186.2279999999955
+Indianapolis,Company - Private,Consulting,Business Services,25,20.0,Data Engineer,64749.148
+Tampa,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,44,5.0,Data Analyst,-5596.103999999999
+New York,Company - Private,Travel Agencies,Travel & Tourism,19,5.0,Data Analyst,-2867.1400000000067
+Chicago,Company - Public,Financial Analytics & Research,Finance,53,5.0,Data Scientist,74260.81400000001
+Hampton,Nonprofit Organization,Federal Agencies,Government,63,5.0,Data Engineer,26567.339999999997
+Cambridge,Company - Private,Construction,"Construction, Repair & Maintenance",45,5.0,Other,9017.339999999997
+Winston-Salem,Company - Private,Consumer Products Manufacturing,Manufacturing,146,7.0,Data Scientist,60566.488
+San Diego,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,15,5.0,Data Scientist,7255.0480000000025
+Ithaca,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,6,5.0,Data Scientist,20066.817999999992
+San Francisco,Company - Private,Computer Hardware & Software,Information Technology,10,5.0,Other,-15989.736000000004
+Marietta,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,6,5.0,Data Scientist,28517.339999999997
+Atlanta,Company - Private,Computer Hardware & Software,Information Technology,18,5.0,Data Scientist,28012.542
+Mountain View,Company - Private,Computer Hardware & Software,Information Technology,7,5.0,Data Scientist,95579.08000000002
+Quincy,Company - Private,Insurance Carriers,Insurance,33,3.0,Data Engineer,41158.862
+San Francisco,Company - Public,Computer Hardware & Software,Information Technology,13,5.0,Data Analyst,43082.004
+Plymouth Meeting,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,4,5.0,Other,52639.08
+Boston,Company - Private,Insurance Carriers,Insurance,170,5.0,Other,7072.624000000003
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,191,5.0,Data Scientist,32027.339999999997
+Nashville,Company - Public,Internet,Information Technology,15,10.0,Data Engineer,45760.814000000006
+Pittsburgh,College / University,Colleges & Universities,Education,37,15.0,Data Scientist,26087.693999999996
+Beavercreek,Nonprofit Organization,Federal Agencies,Government,54,5.0,Data Scientist,38959.08
+Allentown,Company - Private,Staffing & Outsourcing,Business Services,-1,5.0,Other,65220.006
+Salt Lake City,Nonprofit Organization,Religious Organizations,Non-Profit,-1,3.0,Data Analyst,20019.645999999993
+Boston,Company - Private,Insurance Carriers,Insurance,170,5.0,Other,53844.36400000001
+Logan,Company - Private,Consumer Products Manufacturing,Manufacturing,44,5.0,Data Analyst,4614.108
+Birmingham,Subsidiary or Business Segment,Consumer Product Rental,Consumer Services,7,5.0,Data Engineer,20376.077999999994
+Green Bay,Company - Public,Banks & Credit Unions,Finance,151,2.0,Data Analyst,16208.215999999993
+New York,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,172,3.0,Data Scientist,84484.6
+New York,Company - Private,Travel Agencies,Travel & Tourism,19,5.0,Data Analyst,6102.859999999993
+Herndon,Company - Private,Enterprise Software & Network Solutions,Information Technology,9,5.0,Data Analyst,39339.08
+New York,Company - Private,"Department, Clothing, & Shoe Stores",Retail,11,5.0,Data Analyst,23652.859999999993
+Reston,Company - Private,Enterprise Software & Network Solutions,Information Technology,9,3.0,Data Engineer,41619.08
+Durham,Company - Private,Computer Hardware & Software,Information Technology,31,5.0,Data Engineer,53475.612
+Boston,Company - Private,Insurance Carriers,Insurance,170,5.0,Other,24964.36400000001
+Indianapolis,Company - Private,Insurance Carriers,Insurance,109,5.0,Data Engineer,10037.407999999996
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,25,5.0,Data Scientist,54919.08
+New York,Company - Private,Consulting,Business Services,10,5.0,Data Scientist,44584.6
+Phila,Company - Private,Staffing & Outsourcing,Business Services,-1,5.0,Other,23837.339999999997
+Chandler,Company - Public,Health Care Services & Hospitals,Health Care,40,5.0,Data Engineer,43899.08
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,25,5.0,Data Scientist,59859.08
+San Francisco,Company - Private,Computer Hardware & Software,Information Technology,15,5.0,Data Scientist,30162.004
+Boston,Company - Private,Banks & Credit Unions,Finance,165,9.0,Other,2392.6240000000034
+Orlando,Company - Private,Computer Hardware & Software,Information Technology,9,5.0,Data Scientist,60083.356
+Chantilly,Company - Private,IT Services,Information Technology,17,5.0,Data Engineer,32417.339999999997
+Scottsdale,Company - Private,IT Services,Information Technology,19,5.0,Data Engineer,13307.339999999997
+Burbank,Company - Private,Financial Analytics & Research,Finance,12,5.0,Data Scientist,103903.4
+Columbia,Company - Private,Lending,Finance,19,5.0,Other,25010.471999999994
+Columbia,Company - Private,Lending,Finance,19,5.0,Other,24206.886
+Columbia,Company - Private,Lending,Finance,19,5.0,Other,25010.471999999994
+Columbia,Company - Private,Lending,Finance,19,5.0,Other,24206.886
+Chantilly,Company - Private,Aerospace & Defense,Aerospace & Defense,4,5.0,Data Engineer,57959.08
+Chicago,Company - Private,Enterprise Software & Network Solutions,Information Technology,26,5.0,Other,17949.074
+Boston,Company - Private,Consulting,Business Services,78,5.0,Data Scientist,37124.36400000001
+Austin,Company - Private,Security Services,Business Services,11,8.0,Data Engineer,70633.524
+Rockville,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,60,5.0,Data Scientist,29297.339999999997
+Bloomington,Company - Private,Insurance Carriers,Insurance,96,2.0,Data Engineer,14655.555999999997
+Bloomington,Company - Private,Insurance Carriers,Insurance,96,2.0,Data Engineer,15956.599999999999
+Bloomington,Company - Private,Insurance Carriers,Insurance,96,2.0,Data Engineer,14655.555999999997
+Bloomington,Company - Private,Insurance Carriers,Insurance,96,2.0,Data Engineer,15956.599999999999
+Bloomington,Company - Private,Insurance Carriers,Insurance,96,2.0,Data Engineer,14655.555999999997
+Bloomington,Company - Private,Insurance Carriers,Insurance,96,2.0,Data Engineer,15956.599999999999
+Chicago,Company - Public,Transportation Management,Transportation & Logistics,16,3.0,Data Engineer,49560.814000000006
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,13,6.0,Data Scientist,59479.08
+San Francisco,Company - Private,Internet,Information Technology,14,5.0,Other,-14429.736000000004
+Owensboro,Company - Private,Consumer Products Manufacturing,Manufacturing,146,5.0,Data Scientist,51686.724
+Fremont,Company - Public,Computer Hardware & Software,Information Technology,40,5.0,Data Scientist,49219.08
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,52862.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,45591.79
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,53168.458
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,52862.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,52862.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,45591.79
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,53168.458
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,52862.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,52862.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,45591.79
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,53168.458
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,52862.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,52862.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,45591.79
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,53168.458
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,52862.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,52862.33
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,45591.79
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,53168.458
+Springfield,Company - Public,Aerospace & Defense,Aerospace & Defense,-1,3.0,Data Engineer,52862.33
+San Diego,Company - Private,Insurance Carriers,Insurance,49,3.0,Data Engineer,17005.048000000003
+San Francisco,Company - Private,Internet,Information Technology,14,3.0,Data Engineer,60942.004
+Redlands,Company - Private,Computer Hardware & Software,Information Technology,52,5.0,Data Engineer,19547.339999999997
+Westlake,Company - Public,Insurance Carriers,Insurance,43,5.0,Data Scientist,51879.08
+Alameda,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,27,5.0,Data Scientist,34367.34
+Cedar Rapids,Company - Private,Lending,Finance,29,3.0,Data Analyst,4210.994000000006
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,18,3.0,Data Scientist,74299.08
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,172,10.0,Data Scientist,98463.4
+Philadelphia,Company - Private,Insurance Carriers,Insurance,38,30.0,Data Analyst,16686.295999999995
+Alameda,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,27,5.0,Data Scientist,43899.08
+San Francisco,Company - Private,Staffing & Outsourcing,Business Services,15,3.0,Data Engineer,9642.004
+San Francisco,Company - Private,Health Care Services & Hospitals,Health Care,10,5.0,Other,101880.174
+Chicago,Company - Private,Consulting,Business Services,26,20.0,Data Engineer,40440.814000000006
+Chicago,Company - Private,Insurance Carriers,Insurance,109,5.0,Other,113725.13399999999
+Omaha,Nonprofit Organization,Health Care Services & Hospitals,Health Care,25,5.0,Data Scientist,9004.225999999995
+Nashville,Company - Public,Financial Transaction Processing,Finance,21,5.0,Data Analyst,-13898.645999999997
+Austin,College / University,Colleges & Universities,Education,-1,5.0,Data Scientist,45553.524000000005
+San Antonio,Nonprofit Organization,Research & Development,Business Services,74,3.0,Other,24680.757999999994
+Winston-Salem,Company - Private,Consumer Products Manufacturing,Manufacturing,146,2.0,Data Scientist,27204.747999999992
+Huntsville,Company - Public,Aerospace & Defense,Aerospace & Defense,99,2.0,Data Engineer,18196.481999999996
+Huntsville,Company - Public,Aerospace & Defense,Aerospace & Defense,99,2.0,Data Engineer,18234.747999999992
+Durham,Nonprofit Organization,Research & Development,Business Services,63,30.0,Data Scientist,17283.871999999996
+Coraopolis,Company - Public,Sporting Goods Stores,Retail,73,5.0,Data Scientist,32417.339999999997
+Gaithersburg,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,108,5.0,Data Scientist,79999.08
+Fort Lee,Company - Private,Advertising & Marketing,Business Services,32,5.0,Other,90639.08
+Roanoke,Nonprofit Organization,Health Care Services & Hospitals,Health Care,122,5.0,Data Engineer,31555.034
+Blue Bell,Other Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,18,5.0,Data Analyst,22667.339999999997
+San Francisco,Company - Public,Computer Hardware & Software,Information Technology,13,5.0,Data Engineer,43462.004
+San Francisco,Company - Private,Internet,Information Technology,14,5.0,Data Engineer,41562.004
+New York,Company - Private,Internet,Information Technology,13,5.0,Data Analyst,20142.859999999993
+Cambridge,Subsidiary or Business Segment,Research & Development,Business Services,30,25.0,Data Scientist,59859.08
+New York,Company - Private,Travel Agencies,Travel & Tourism,19,5.0,Data Scientist,13512.859999999993
+San Francisco,Company - Private,Beauty & Personal Accessories Stores,Retail,19,5.0,Data Analyst,2730.2639999999956
+Winston-Salem,Company - Private,Consumer Products Manufacturing,Manufacturing,146,5.0,Data Scientist,32274.747999999992
+Cambridge,Subsidiary or Business Segment,Research & Development,Business Services,30,5.0,Data Scientist,95199.08000000002
+Pittsburgh,College / University,Colleges & Universities,Education,37,3.0,Data Scientist,52239.434
+Seattle,Nonprofit Organization,Social Assistance,Non-Profit,42,2.0,Data Analyst,-8586.095999999998
+Glen Burnie,Company - Private,Health Care Services & Hospitals,Health Care,132,7.0,Data Analyst,49599.08
+Philadelphia,Company - Private,Health Care Services & Hospitals,Health Care,27,5.0,Data Analyst,19026.295999999995
+Rockville,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,60,6.0,Data Scientist,28907.339999999997
+Watertown,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,13,5.0,Data Scientist,26897.053999999996
+Watertown,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,13,5.0,Data Scientist,27164.91599999999
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,13,5.0,Data Scientist,41239.08
+Boston,Company - Private,Insurance Carriers,Insurance,109,5.0,Other,-5017.375999999997
+Los Angeles,Company - Private,Enterprise Software & Network Solutions,Information Technology,10,5.0,Data Engineer,30643.084000000003
+Palo Alto,Company - Public,Financial Transaction Processing,Finance,15,5.0,Data Scientist,73919.08
+Hartford,Company - Public,IT Services,Information Technology,40,3.0,Other,13030.571999999993
+Gaithersburg,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,108,5.0,Data Scientist,37819.08
+New York,Company - Private,Health Care Services & Hospitals,Health Care,41,5.0,Data Analyst,6882.859999999993
+Orange,Company - Private,Health Care Services & Hospitals,Health Care,8,5.0,Data Engineer,39719.08
+Fort Lee,Company - Private,Advertising & Marketing,Business Services,32,5.0,Data Scientist,54539.08
+New York,Company - Private,Education Training Services,Education,9,5.0,Data Scientist,14292.859999999993
+Maryland Heights,School / School District,K-12 Education,Education,-1,5.0,Data Scientist,40859.08
+Fort Belvoir,Company - Public,Aerospace & Defense,Aerospace & Defense,67,5.0,Data Engineer,33977.34
+Silver Spring,Company - Private,IT Services,Information Technology,15,3.0,Data Scientist,33197.34
+Palo Alto,Company - Private,Internet,Information Technology,9,5.0,Data Scientist,56439.08
+Marlborough,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,11,5.0,Data Scientist,85319.08
+Highland,Company - Private,Gambling,"Arts, Entertainment & Recreation",35,5.0,Data Analyst,3947.340000000004
+Lenexa,Company - Public,Stock Exchanges,Finance,48,7.0,Data Engineer,33977.34
+Houston,Company - Private,IT Services,Information Technology,19,5.0,Data Engineer,30124.511999999995
+Burleson,Hospital,Health Care Services & Hospitals,Health Care,44,5.0,Data Scientist,827.3400000000038
+San Jose,Company - Public,Aerospace & Defense,Aerospace & Defense,82,16.0,Data Scientist,71017.88999999998
+Hoopeston,Company - Private,Food & Beverage Manufacturing,Manufacturing,-1,5.0,Data Scientist,7067.3399999999965
+Phoenix,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,24,5.0,Data Engineer,17901.902000000002
+Gaithersburg,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,108,5.0,Data Scientist,40099.08
+Bedford,Nonprofit Organization,Federal Agencies,Government,63,1.0,Data Scientist,20327.339999999997
+Cincinnati,Subsidiary or Business Segment,Metals Brokers,Mining & Metals,136,5.0,Data Scientist,52127.296
+Charlottesville,Company - Private,IT Services,Information Technology,11,5.0,Data Scientist,52215.494000000006
+Washington,Company - Private,Consulting,Business Services,24,5.0,Data Scientist,33547.61400000001
+Concord,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,-1,2.0,Data Scientist,49463.002
+Concord,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,-1,2.0,Data Scientist,49463.002
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,240,5.0,Data Engineer,85319.08
+New York,Company - Private,Health Care Services & Hospitals,Health Care,10,5.0,Data Scientist,29384.6
+New York,Company - Private,Consumer Product Rental,Consumer Services,14,5.0,Data Scientist,31284.6
+Chicago,Company - Private,Consulting,Business Services,13,5.0,Data Scientist,65520.814000000006
+Pittsburgh,College / University,Colleges & Universities,Education,37,5.0,Data Scientist,64779.434
+San Francisco,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,15,5.0,Data Scientist,83346.324
+Vail,Hospital,Health Care Services & Hospitals,Health Care,55,3.0,Data Scientist,16817.339999999997
+Salt Lake City,Nonprofit Organization,Religious Organizations,Non-Profit,-1,2.0,Data Analyst,2859.6460000000006
+New York,Company - Public,Advertising & Marketing,Business Services,16,2.0,Data Scientist,36604.6
+Phoenix,Company - Private,IT Services,Information Technology,52,3.0,Data Scientist,18681.902000000002
+Irvine,Company - Private,Colleges & Universities,Education,24,3.0,Data Scientist,59859.08
+Charlotte,Company - Private,IT Services,Information Technology,13,4.0,Data Engineer,33610.92599999999
+Aliso Viejo,Company - Public,Video Games,Media,24,5.0,Data Engineer,53779.08
+San Francisco,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,16,5.0,Data Scientist,16102.004
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,191,5.0,Data Scientist,36679.08
+Los Angeles,Company - Private,Computer Hardware & Software,Information Technology,13,5.0,Data Scientist,68643.084
+McLean,Nonprofit Organization,Federal Agencies,Government,63,5.0,Data Scientist,48839.08
+Ann Arbor,Company - Private,Computer Hardware & Software,Information Technology,10,5.0,Data Scientist,66966.94200000001
+Dublin,Company - Public,Consulting,Business Services,33,4.0,Data Analyst,61759.08
+New York,Company - Public,Enterprise Software & Network Solutions,Information Technology,22,5.0,Other,22872.859999999993
+Scotts Valley,Nonprofit Organization,Health Care Services & Hospitals,Health Care,25,5.0,Other,16037.339999999997
+New York,Company - Private,Internet,Information Technology,11,5.0,Data Analyst,-7937.139999999999
+San Jose,Company - Public,Computer Hardware & Software,Information Technology,39,5.0,Data Engineer,62893.56999999999
+Gaithersburg,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,108,5.0,Data Scientist,74299.08
+Olympia,Company - Private,IT Services,Information Technology,-1,5.0,Data Scientist,31366.345999999998
+Knoxville,Company - Private,Gas Stations,Retail,63,3.0,Data Engineer,45593.424000000006
+New York,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,108,5.0,Data Scientist,61304.6
+Denver,Nonprofit Organization,Insurance Carriers,Insurance,106,5.0,Data Engineer,38508.894
+Milwaukee,Company - Private,Food & Beverage Manufacturing,Manufacturing,57,5.0,Data Scientist,10609.832000000002
+Franklin,Company - Private,Health Care Services & Hospitals,Health Care,17,5.0,Data Engineer,50739.08
+Rockville,Company - Private,IT Services,Information Technology,22,5.0,Data Engineer,50739.08
+Natick,Company - Private,Computer Hardware & Software,Information Technology,37,7.0,Data Scientist,73919.08
+Chicago,Company - Private,Insurance Carriers,Insurance,109,7.0,Other,153043.984
+New York,Company - Private,Computer Hardware & Software,Information Technology,46,5.0,Data Engineer,52184.6
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,25,5.0,Other,48839.08
+Millville,Nonprofit Organization,Health Care Services & Hospitals,Health Care,86,5.0,Other,10187.339999999997
+South San Francisco,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,9,5.0,Data Scientist,23057.339999999997
+Rockville,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,60,5.0,Data Scientist,29297.339999999997
+Philadelphia,Company - Private,Staffing & Outsourcing,Business Services,-1,5.0,Data Scientist,64258.036
+Winston-Salem,Company - Private,Consumer Products Manufacturing,Manufacturing,146,5.0,Data Scientist,46886.488
+South San Francisco,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,15,5.0,Data Scientist,37819.08
+Richfield,Company - Private,Insurance Carriers,Insurance,32,2.0,Data Analyst,1607.3400000000038
+Indianapolis,Company - Private,Consulting,Business Services,25,20.0,Data Engineer,64749.148
+Tampa,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,44,5.0,Data Analyst,-5596.103999999999
+Worcester,Company - Public,Insurance Carriers,Insurance,169,3.0,Data Analyst,3186.2279999999955
+New York,Company - Private,Travel Agencies,Travel & Tourism,19,5.0,Data Analyst,-2867.1400000000067
+Chicago,Company - Public,Financial Analytics & Research,Finance,53,5.0,Data Scientist,74260.81400000001
+Hampton,Nonprofit Organization,Federal Agencies,Government,63,5.0,Data Engineer,26567.339999999997
+Cambridge,Company - Private,Construction,"Construction, Repair & Maintenance",45,5.0,Other,9017.339999999997
+Winston-Salem,Company - Private,Consumer Products Manufacturing,Manufacturing,146,7.0,Data Scientist,60566.488
+San Diego,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,15,5.0,Data Scientist,7255.0480000000025
+San Francisco,Company - Private,Computer Hardware & Software,Information Technology,10,5.0,Other,-15989.736000000004
+Marietta,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,6,5.0,Data Scientist,28517.339999999997
+Ithaca,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,6,5.0,Data Scientist,20066.817999999992
+Quincy,Company - Private,Insurance Carriers,Insurance,33,3.0,Data Engineer,41158.862
+Palo Alto,Company - Private,K-12 Education,Education,14,5.0,Data Engineer,52259.08
+San Francisco,Company - Public,Computer Hardware & Software,Information Technology,13,5.0,Data Analyst,43082.004
+Boston,Company - Private,Insurance Carriers,Insurance,170,5.0,Other,7072.624000000003
+San Francisco,Company - Private,Internet,Information Technology,10,5.0,Data Engineer,4290.263999999996
+Plymouth Meeting,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,4,5.0,Other,52639.08
+Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,191,5.0,Data Scientist,32027.339999999997
+Nashville,Company - Public,Internet,Information Technology,15,10.0,Data Engineer,45760.814000000006
+Pittsburgh,College / University,Colleges & Universities,Education,37,15.0,Data Scientist,26087.693999999996
+Allentown,Company - Private,Staffing & Outsourcing,Business Services,-1,5.0,Other,65220.006
+Beavercreek,Nonprofit Organization,Federal Agencies,Government,54,5.0,Data Scientist,38959.08
